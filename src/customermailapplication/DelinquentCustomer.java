@@ -1,15 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/* Kitthanya Teachanontkullawat (Mine) 64050027
+    Factory Pattern */
 
 package customermailapplication;
-
 /**
  *
- * @author sarun
+ * Edit from @author sarun
  */
+
 //make this class a subclass of customer
 public class DelinquentCustomer extends Customer {
 
