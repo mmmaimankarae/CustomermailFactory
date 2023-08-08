@@ -18,6 +18,7 @@ public class CustomerFactory {
 
             case "Delinquent":
                 return new DelinquentCustomer();
+                
             default:
                 return null;
         }
